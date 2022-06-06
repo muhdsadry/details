@@ -1,5 +1,5 @@
 # details
-Simple Passing Arguments using Routing
+Simple Passing Arguments using Routing in Flutter
 
 Steps to deploy the example:
 1. type 'flutter create details' in terminal or powershell or cmd
